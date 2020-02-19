@@ -9,12 +9,12 @@
 // - Add the name ‘Yoko’ to the list
 // - Console.log the list
 
-let specialNames = ["John", "Paul", "George", "Pete"]
-console.log("Pete");
-specialNames.push("John", "Paul", "George", "Ringo")
-console.log("John", "Paul", "George", "Ringo");
-specialNames.push('Yoko');
-console.log("John", "Paul", "George", "Ringo","Yoko");
+// let specialNames = ["John", "Paul", "George", "Pete"]
+// console.log("Pete");
+// specialNames.push("John", "Paul", "George", "Ringo")
+// console.log("John", "Paul", "George", "Ringo");
+// specialNames.push('Yoko');
+// console.log("John", "Paul", "George", "Ringo","Yoko");
 
 
 
@@ -29,12 +29,12 @@ console.log("John", "Paul", "George", "Ringo","Yoko");
 // - Console.log the list of names
 
 
-let ageList1 = prompt("Enter an 10");
-let ageList2 = prompt("Enter an 12")
-let ageList3 = prompt("Enter an 14")
-let ageList4 = prompt("Enter an 16")
+let ageList1 = prompt("Enter 10");
+let ageList2 = prompt("Enter 12")
+let ageList3 = prompt("Enter 14")
+let ageList4 = prompt("Enter 16")
 console.log('10','12','14','16');
-let removedItem = ageList4.pop([3]);
+// console.log(ageList4.pop());
 
 
 
