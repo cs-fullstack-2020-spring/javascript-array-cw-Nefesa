@@ -9,12 +9,12 @@
 // - Add the name ‘Yoko’ to the list
 // - Console.log the list
 
-// let specialNames = ["John", "Paul", "George", "Pete"]
-// console.log("Pete");
-// specialNames.push("John", "Paul", "George", "Ringo")
-// console.log("John", "Paul", "George", "Ringo");
-// specialNames.push('Yoko');
-// console.log("John", "Paul", "George", "Ringo","Yoko");
+let specialNames = ["John", "Paul", "George", "Pete"]
+console.log("Pete");
+specialNames.push("John", "Paul", "George", "Ringo")
+console.log("John", "Paul", "George", "Ringo");
+specialNames.push('Yoko');
+console.log("John", "Paul", "George", "Ringo","Yoko");
 
 
 
